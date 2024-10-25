@@ -1,4 +1,4 @@
-# Key Principles of OOP in C#
+#C#
 
 C# is a modern, versatile, object-oriented programming language developed by Microsoft as part of its .NET initiative. As an object-oriented programming (OOP) language, C# is structured around classes and objects, which allow developers to create modular, reusable, and maintainable code.
 
